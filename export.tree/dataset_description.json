@@ -1,0 +1,13 @@
+{
+    "Name": "Temporal Scaling",
+    "Authors": [
+        "Cameron D. Hassall",
+        "Laurence T. Hunt"
+    ],
+    "License": "CC0",
+    "DatasetDOI": "doi:10.18112/openneuro.ds004200.v1.0.0",
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "BIDSVersion": "1.1.1"
+}
