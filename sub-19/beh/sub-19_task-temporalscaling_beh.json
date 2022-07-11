@@ -1,0 +1,39 @@
+{
+  "block": {
+    "Description": "Block type (integer)",
+    "Levels": {
+      "x1": "Production task, fast tempo",
+      "x2": "Production task, medium tempo",
+      "x3": "Production task, slow tempo",
+      "x4": "Perception task, fast tempo",
+      "x5": "Perception task, medium tempo",
+      "x6": "Perception task, slow tempo"
+    }
+  },
+  "trial": {
+    "Description": "Trial number (integer)"
+  },
+  "preBeepTime": {
+    "Description": "Fixation time before cue onset (float)",
+    "Units": "seconds"
+  },
+  "responseTime": {
+    "Description": "Production task: Response time (float)",
+    "Units": "seconds"
+  },
+  "computerRT": {
+    "Description": "Perception task: Computer-produced interval (float)",
+    "Units": "seconds"
+  },
+  "computerRespCondition": {
+    "Description": "Perception task: Condition number (int)",
+    "Levels": {
+      "x1": "Very early",
+      "x2": "Early",
+      "x3": "On time",
+      "x4": "Late",
+      "x5": "Very late"
+    }
+  },
+  "judgementMapping": {
+    "Description": "Perception task: Mapping f

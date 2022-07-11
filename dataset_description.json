@@ -1,0 +1,11 @@
+{
+  "Name": "Temporal Scaling",
+  "Authors": [
+    "Cameron D. Hassall",
+    "Laurence T. Hunt"
+  ],
+  "License": "CC0",
+  "DatasetDOI": "",
+  "ReferencesAndLinks": [""],
+  "BIDSVersion": "1.1.1"
+}
