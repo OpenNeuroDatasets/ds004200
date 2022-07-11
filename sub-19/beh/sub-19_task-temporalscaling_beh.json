@@ -36,4 +36,49 @@
     }
   },
   "judgementMapping": {
-    "Description": "Perception task: Mapping f
+    "Description": "Perception task: Mapping from keypress to yes/no judgement (int)",
+    "Levels": {
+      "x1": "left = yes, right = no",
+      "x2": "left = no, right = yes"
+    }
+  },
+  "participantResponse": {
+    "Description": "Perception task: Participant left/right response (int)",
+    "Levels": {
+      "x1": "left",
+      "x2": "right"
+    }
+  },
+  "participantJudgement": {
+    "Description": "Perception task: Participant yes/no judgement (int)",
+    "Levels": {
+      "x1": "yes",
+      "x2": "no"
+    }
+  },
+  "guessTime": {
+    "Description": "Perception task: Participant judgment time",
+    "Units": "seconds"
+  },
+  "preFeedbackTime": {
+    "Description": "Fixation time before feedback onset (float)",
+    "Units": "seconds"
+  },
+  "fbCondition": {
+    "Description": "Feedback type (int)",
+    "Levels": {
+      "x1": "Perception task: Incorrect judgement",
+      "x2": "Perception task: Correct judgement",
+      "x3": "Production task: Early response",
+      "x4": "Production task: On time response",
+      "x5": "Production task: Late response"
+    }
+  },
+  "totalPoints": {
+    "Description": "Point total (int)"
+  },
+  "thisTrialMargin": {
+    "Description": "Production task: timing margin (float)",
+    "Units": "seconds"
+  }
+}
