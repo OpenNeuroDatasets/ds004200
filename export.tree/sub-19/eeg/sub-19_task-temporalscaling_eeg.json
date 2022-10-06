@@ -1,0 +1,17 @@
+{
+  "InstitutionAddress": "Warneford Hospital, Warneford Lane",
+  "InstitutionName": "University of Oxford",
+  "InstitutionalDepartmentName": "Department of Psychiatry",
+  "PowerLineFrequency": 50,
+  "ManufacturersModelName": "actiCHamp Plus",
+  "TaskName": "temporalscaling",
+  "EEGChannelCount": 37,
+  "EEGReference": "Common",
+  "RecordingType": "continuous",
+  "RecordingDuration": 2384.7,
+  "SamplingFrequency": 1000,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "SoftwareFilters": "n/a"
+}
